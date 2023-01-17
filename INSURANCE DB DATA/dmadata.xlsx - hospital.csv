@@ -1,0 +1,62 @@
+hospital_id,hospital_name,h_address,isunderinsurance
+1,Anna Jaques Hospital,"Newburyport, MA",FALSE
+2,Athol Hospital,"Athol, MA",TRUE
+3,Baystate Franklin Medical Center,"Greenfield, MA",TRUE
+4,Baystate Medical Center,"Springfield, MA",TRUE
+5,Baystate Noble Hospital,"Westfield, MA",TRUE
+6,Baystate Wing Hospital,"Palmer, MA",FALSE
+7,Berkshire Medical Center,"Pittsfield, MA",TRUE
+8,Beth Israel Deaconess Hospital - Milton,"Milton, MA",TRUE
+9,Beth Israel Deaconess Hospital - Needham,"Needham, MA",FALSE
+10,Beth Israel Deaconess Hospital - Plymouth,"Plymouth, MA",TRUE
+11,Beth Israel Deaconess Medical Center,"Boston, MA",TRUE
+12,Boston Children's Hospital,"Boston, MA",FALSE
+13,Boston Medical Center,"Boston, MA",TRUE
+14,Brigham and Women's Faulkner Hospital,"Boston, MA",TRUE
+15,Brigham and Women's Hospital,"Boston, MA",TRUE
+16,Cambridge Health Alliance,"Cambridge, MA, Somerville, MA & Everett, MA",TRUE
+17,Cape Cod Hospital,"Hyannis, MA",FALSE
+18,Cooley Dickinson Hospital,"Northampton, MA",TRUE
+19,Dana-Farber Cancer Institute,"Boston, MA",FALSE
+20,Emerson Hospital,"Concord, MA",TRUE
+21,Fairview Hospital,"Great Barrington, MA",TRUE
+22,Falmouth Hospital,"Falmouth, MA",FALSE
+23,Harrington Memorial Hospital,"Southbridge, MA",TRUE
+24,HealthAlliance-Clinton Hospital,"Leominster, MA, Clinton, MA & Fitchburg, MA",TRUE
+25,Heywood Hospital,"Gardner, MA",TRUE
+26,Holyoke Medical Center,"Holyoke, MA",TRUE
+27,Lahey Hospital & Medical Center,"Burlington, MA & Peabody, MA",TRUE
+28,Lawrence General Hospital,"Lawrence, MA",FALSE
+29,Lowell General Hospital,"Lowell, MA",TRUE
+30,Marlborough Hospital,"Marlborough, MA",TRUE
+31,Martha's Vineyard Hospital,"Oak Bluffs, MA",TRUE
+32,Massachusetts Eye and Ear Infirmary,"Boston, MA",TRUE
+33,Massachusetts General Hospital,"Boston, MA",TRUE
+34,Melrose Wakefield Healthcare,"Medford, MA & Melrose, MA",TRUE
+35,Mercy Medical Center,"Springfield, MA",FALSE
+36,MetroWest Medical Center,"Framingham, MA & Natick, MA",FALSE
+37,Milford Regional Medical Center,"Milford, MA",TRUE
+38,"Morton Hospital, A Steward Family Hospital","Taunton, MA",TRUE
+39,Mount Auburn Hospital,"Cambridge, MA",TRUE
+40,Nantucket Cottage Hospital,"Nantucket, MA",TRUE
+41,"Nashoba Valley Medical Center, A Steward Family Hospital","Ayer, MA",TRUE
+42,New England Baptist Hospital,"Boston, MA",FALSE
+43,Newton-Wellesley Hospital,"Newton, MA",TRUE
+44,North Shore Medical Center,"Salem, MA & Lynn, MA",TRUE
+45,Northeast Hospital,"Beverly, MA, Gloucester, MA & Lynn, MA",TRUE
+46,Saint Vincent Hospital,"Worcester, MA",TRUE
+47,Shriners Hospitals for Children - Boston,"Boston, MA",FALSE
+48,Shriners Hospitals for Children - Springfield,"Springfield, MA",TRUE
+49,Signature Healthcare Brockton Hospital,"Brockton, MA",TRUE
+50,South Shore Hospital,"South Weymouth, MA",TRUE
+51,Southcoast Hospitals Group,"Fall River, MA, New Bedford, MA & Wareham, MA",TRUE
+52,Steward Carney Hospital,"Dorchester, MA",FALSE
+53,Steward Good Samaritan Medical Center,"Brockton, MA",TRUE
+54,Steward Holy Family Hospital,"Methuen, MA",TRUE
+55,Steward Norwood Hospital,"Norwood, MA",TRUE
+56,Steward Saint Anne's Hospital,"Fall River, MA",TRUE
+57,Steward St. Elizabeth's Medical Center,"Brighton, MA",TRUE
+58,Sturdy Memorial Hospital,"Attleboro, MA",FALSE
+59,Tufts Medical Center,"Boston, MA",TRUE
+60,UMass Memorial Medical Center,"Worcester, MA",TRUE
+61,Winchester Hospital,"Winchester, MA",TRUE
